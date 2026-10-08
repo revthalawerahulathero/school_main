@@ -1,0 +1,6 @@
+{
+  "name": "Wisdom International College",
+  "description": "Comprehensive, modern educational institution website featuring academics, admissions portal, student notice board, live term calendar, co-curriculars, and interactive student/parent hub.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
